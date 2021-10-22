@@ -3,7 +3,7 @@ export default [
     _id: "0",
     author: {
       profile_img_url:
-        "https://pbs.twimg.com/profile_images/1338824835078778880/3rFQF35B_400x400.jpg",
+        "https://pbs.twimg.com/profile_images/856983737426423809/6jebtwP-_400x400.jpg",
       display_name: "Tyler Potts",
       username: "@Tyler_Potts_",
     },
@@ -65,7 +65,7 @@ export default [
     _id: "2",
     author: {
       profile_img_url:
-        "https://pbs.twimg.com/profile_images/595659104384905218/bOtXKmdP_400x400.jpg",
+        "https://pbs.twimg.com/profile_images/856983737426423809/6jebtwP-_400x400.jpg",
       display_name: "Florin Pop",
       username: "@florinpop1705",
     },
@@ -103,7 +103,7 @@ export default [
     _id: "3",
     author: {
       profile_img_url:
-        "https://pbs.twimg.com/profile_images/1338824835078778880/3rFQF35B_400x400.jpg",
+        "https://pbs.twimg.com/profile_images/856983737426423809/6jebtwP-_400x400.jpg",
       display_name: "Tyler Potts",
       username: "@Tyler_Potts_",
     },
